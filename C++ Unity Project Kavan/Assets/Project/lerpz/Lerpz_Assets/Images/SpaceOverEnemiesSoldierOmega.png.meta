@@ -1,0 +1,616 @@
+fileFormatVersion: 2
+guid: 5eb9bddfff7a5ea48af32c30d7ad12d8
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: base
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 539
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: idle_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 536
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: idle_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 536
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: idle_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 536
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: idle_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 536
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: idle_5
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 536
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: idle_6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 536
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: idle_7
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 500
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: idle_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 500
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: please_get_hype_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 500
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: please_get_hype_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 500
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: please_get_hype_3
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 500
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: please_get_hype_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 500
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SpaceOverEnemiesSoldierOmega_15
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 476
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: please_get_hype_5
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 462
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SpaceOverEnemiesSoldierOmega_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 476
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_18
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 464
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_19
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 484
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_20
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 484
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 476
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_22
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 476
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_23
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 467
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_24
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 466
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_25
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 429
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_26
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 449
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_27
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 449
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_28
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 440
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_29
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 439
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_30
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 431
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_31
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 431
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_32
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 386
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_33
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 385
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_34
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 385
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_35
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 385
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_36
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 384
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_37
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 333
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_38
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 333
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_39
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 339
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_40
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 335
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_41
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 355
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_42
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 355
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_43
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 347
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_44
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 347
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_45
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 338
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_46
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 337
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_47
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 289
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_48
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 307
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_49
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 307
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_50
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 289
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_51
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 311
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_52
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 311
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_53
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 302
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_54
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 301
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_55
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 293
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_56
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 293
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_57
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 255
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_58
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 255
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_59
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 234
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_60
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 242
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_61
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 242
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_62
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 242
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_63
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 218
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: SpaceOverEnemiesSoldierOmega_64
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 226
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\The Project\New Unity Project 4\Assets\My_Assets\scripts\BlackHole.cs">
+    <Files>
+      <File FileName="..\The Project\New Unity Project 4\Assets\My_Assets\scripts\Field.cs" Line="1" Column="1" />
+      <File FileName="..\The Project\New Unity Project 4\Assets\My_Assets\scripts\BlackHole.cs" Line="30" Column="75" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
